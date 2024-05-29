@@ -39,6 +39,7 @@ class SpeechToText {
         "zh-CN",
         "it-IT",
         "pt-BR",
+        "fr-FR",
       ]);
 
     const recognizer = SpeechRecognizer.FromConfig(
